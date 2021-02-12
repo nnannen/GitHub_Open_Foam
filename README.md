@@ -1,2 +1,2 @@
 # GitHub_Open_Foam
-These are my OpenFoam codes
+These are my OpenFoam codes.
